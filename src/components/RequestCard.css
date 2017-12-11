@@ -1,0 +1,84 @@
+#userID {
+    font-size: 20px;
+}
+
+#priceOffer {
+    font-size: 20px;
+}
+
+#descriptionTitle {
+    text-align: left;
+}
+
+#descriptionBox {
+    height: 400px;
+    width: 67%;
+    padding: 5px;
+    text-align: left;
+}
+
+#layerOptions {
+    width: 30%;
+}
+
+#tagsArea {
+
+}
+
+
+.tag {
+    text-align: center;
+    border-radius: 10px;
+    background-color: #fafad2;
+    padding: 3px;
+    color: 	#87ceeb;
+    
+}
+
+#layerOptions {
+    text-align: center;
+}
+
+#orgBox {
+    background-color: white;
+    border-radius: 5px;
+    border: solid 1px #555;
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+    margin: 10px;
+    padding: 10px;
+}
+
+#userID, #priceOffer, #descriptionTitle,
+#descriptionBox, #layerOptions, #rowOfTags {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+#userID {
+    background-color: #f0f8ff;
+}
+
+#priceOffer {
+    background-color: lightblue;
+}
+
+#descriptionTitle {
+    background-color: #e0ffff;
+}
+
+#descriptionBox {
+    border-radius: 5px;
+    border: solid 1px #555;
+    box-shadow:  0 0 10px  rgba(0,0,0,0.6);
+}
+
+#rowOfTags {
+    background-color: #f0ffff;
+}
+
+#tagsId {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
