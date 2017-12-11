@@ -2,6 +2,9 @@
   "name": "debugjar",
   "version": "0.1.0",
   "private": false,
+  "engines": {
+    "node": "v8.9.3"
+  },
   "dependencies": {
     "blueimp-md5": "^2.10.0",
     "firebase": "^4.7.0",
