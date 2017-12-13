@@ -1,6 +1,6 @@
 {
   "name": "debugjar",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "dependencies": {
     "blueimp-md5": "^2.10.0",
@@ -9,6 +9,10 @@
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
     "react-scripts": "1.0.17"
+  },
+  "engines": {
+    "node": "8.9.3",
+    "npm": "5.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
