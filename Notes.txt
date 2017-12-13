@@ -1,1 +1,3 @@
 Images used under the correct licenses.
+
+Site deployed live at: http://admiring-galileo-4650f5.netlify.com/
