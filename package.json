@@ -2,7 +2,6 @@
   "name": "debugjar",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://PopBot.github.io/DebugJar",
   "dependencies": {
     "blueimp-md5": "^2.10.0",
     "firebase": "^4.7.0",
@@ -15,12 +14,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -e debugjar -m 'committing first build of DebugJar App'",
-    "gh-help": "gh-pages --help"
-  },
-  "devDependencies": {
-    "gh-pages": "^1.1.0"
+    "eject": "react-scripts eject"
   }
 }
