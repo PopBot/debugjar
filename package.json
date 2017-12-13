@@ -1,7 +1,8 @@
 {
   "name": "debugjar",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://PopBot.github.io/DebugJar",
   "dependencies": {
     "blueimp-md5": "^2.10.0",
     "firebase": "^4.7.0",
